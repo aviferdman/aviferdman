@@ -1,4 +1,4 @@
-### Hey there, I'm Avi Ferdman!
+### Hey there :wave:, I'm Avi Ferdman! 
 
 ### - :computer: Software Engineer Student at Microsoft.
 ### - :mortar_board: Software Engineering Student at BGU.
